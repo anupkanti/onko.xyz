@@ -1,0 +1,1 @@
+Since it is laravel application so installation process is same as laravel.
